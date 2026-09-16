@@ -239,4 +239,4 @@ This repository serves as the official landing page for Mortal Kombat Project. T
 **Get the most recent version of Mortal Kombat Project today!**
 
 ---
-**Last updated:** 2026-09-16 14:36:57 UTC
+**Last updated:** 2026-09-16 18:40:02 UTC
